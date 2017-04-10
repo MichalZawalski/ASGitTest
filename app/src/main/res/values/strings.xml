@@ -2,4 +2,7 @@
     <string name="app_name">My First App</string>
     <string name="edit_message">Enter a massage</string>
     <string name="button_send">Send</string>
+    <string name="status_info">status</string>
+    <string name="status_gotowy">Gotowy</string>
+    <string name="status_wdrodze">W drodze</string>
 </resources>
